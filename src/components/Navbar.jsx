@@ -10,4 +10,4 @@ const Narbar = () => {
   );
 };
 
-export default Narbar;
+export default Navbar;
