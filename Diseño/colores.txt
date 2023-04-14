@@ -1,3 +1,17 @@
+Colores
 https://colorhunt.co/palette/070a52d21312ed2b2af15a59
+
+
+Texto
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@300;500&display=swap');
+</style>
+
+Titulos
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@800&display=swap');
+</style>
+
+
 
 Pagina guia:https://mario.nintendo.com/es/
