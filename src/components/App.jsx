@@ -1,7 +1,12 @@
 import { useState } from "react";
+import Noticias from "./Noticias";
 
 function App() {
-  return <h1>Holiwi</h1>;
+  return (
+    <>
+      <Noticias />
+    </>
+  );
 }
 
 export default App;
